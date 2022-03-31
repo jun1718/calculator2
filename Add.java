@@ -3,7 +3,7 @@ public class Add {
 
     public Add () {
         super();
-        
+        121;
         //변경
     }
 }
