@@ -3,7 +3,11 @@ public class Add {
 
     public Add () {
         super();
-        
+        System.out.println("hi");
         //변경
     }   //텍스트변경
+
+    public void hi() {
+
+    }
 }
